@@ -2,7 +2,7 @@ import List from '../children/Children'
 import './App.css'
 
 function App() {
-  console.log('1234')
+  console.log('12345')
   return (
     <div className="App">
       <List>
